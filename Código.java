@@ -21,7 +21,7 @@ public class Matrizes {
         JOptionPane.showMessageDialog(null, "Linha (" + linha + ") coluna (" + coluna + ") \nvalor:" + Matriz[linha][coluna]);
         }
        }
-        JOptionPane.showMessageDialog(null, "A soma dos valores da Matriz é: " + soma);
+        JOptionPane.showMessageDialog(null, "A soma dos valores da Matriz ï¿½: " + soma);
     }
     
 }
